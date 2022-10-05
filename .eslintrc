@@ -7,9 +7,6 @@
   "extends": [
     "plugin:react/recommended"
   ],
-  "prettier": {
-    "singleQuote": true
-  },
   "parserOptions": {
     "ecmaVersion": 6,
     "sourceType": "module",
